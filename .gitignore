@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+frontend/
+
+# BLOCK THE LARGE DIRECTORIES COMPLETELY
+datasets/
+notebooks/  
